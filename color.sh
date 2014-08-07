@@ -109,7 +109,7 @@ function sed_color() {
     # $2 = color
     # $3 = color2 (Underline/Background)
     # $4 = color3 (Underline/Background)
-    sed -e "s/$1/$2$3$4&$txtrst/"
+    sed -e "s/$1/$2$3$4&$txtrst/g"
 }
 
 function color() {
