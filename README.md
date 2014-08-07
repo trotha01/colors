@@ -2,8 +2,8 @@
 Use to color your output text
 
 ### NOTE
- Underline also colors the text
- Bold currently doesn't work
+- Underline also colors the text
+-  Bold currently doesn't work
 
 ### INSTALL
 ```
@@ -17,6 +17,7 @@ source colors/color.sh
 
 
 ### EXAMPLES
+Try them out
 ```
 echo "hello there" | red there
 echo "hello there" | blue hello | red there
