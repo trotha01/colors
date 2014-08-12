@@ -12,7 +12,7 @@ git clone git@github.com:trotha01/colors.git
 ```
 Then add to your .bashrc or .bash_profile:
 ```
-source colors/color.sh
+source ~/colors/color.sh
 ```
 
 
